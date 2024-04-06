@@ -1,2 +1,2 @@
 # GoMine
-Legacy dragonfly fork (Archived as of Dec 25, 2022)
+Legacy dragonfly fork which was last updated in Dec 25, 2022. This repository has been archived and will not update anymore.
